@@ -1,4 +1,7 @@
+
 # Ceylon Tea - E-commerce Website 🍃
+
+<img width="1536" height="1024" alt="WhatsApp Image 2026-06-26 at 15 29 11" src="https://github.com/user-attachments/assets/6d7e2a1e-ccff-4435-b58d-ce3463a5bb41" />
 
 [cite_start]A modern web-based e-commerce platform dedicated to the online sale of authentic Ceylon Tea[cite: 5, 73].
 
